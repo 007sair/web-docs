@@ -36,6 +36,7 @@
 - [Web前端开发规范文档](https://cnodejs.org/topic/55dec742c61f30df2e65ebda)
 - [百度，淘宝，腾讯三大巨头HTML页面规范分解](http://www.w3cfuns.com/blog-5440229-5402622.html)
 - [编码规范 by @mdo](http://www.css88.com/doc/codeguide/)
+- [编码规范 from github](https://github.com/ecomfe/spec)
 
 ###学习类
 
@@ -53,8 +54,22 @@
 - [英文文档](http://docs.emmet.io/)
 - [中文文档](http://yanxyz.github.io/emmet-docs/)
 
+####Git
+
+- [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)（本文由 @廖雪峰 创作，如果觉得本教程对您有帮助，可以去 iTunes 购买）
+- [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
+- [Git 参考手册](http://gitref.justjavac.com/)
+- [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
+- [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
+
 ####框架
-    
+
+- [AngularJS中文网](http://www.apjs.net/)
+- [React概览](http://segmentfault.com/a/1190000000693651)
+- [Bootstrap中文网](http://www.bootcss.com/)
+- [Amaze UI](http://amazeui.org/)
+- [Foundation中文网](http://www.foundcss.com/)
 - [Nice Easy Javascript](http://nej.netease.com/)
 - [NEC：更好的css样式解决方案](http://nec.netease.com/)
 
@@ -85,8 +100,19 @@
 
 ####Gulp
 
-- [Gulp —— 另一种自动化流水线](http://zhuanlan.zhihu.com/TLA42/19691575)
+- [Gulp 中文网](http://www.gulpjs.com.cn/)
 - [前端构建工具gulp入门教程](http://segmentfault.com/a/1190000000372547)
+- [plugin registry](http://gulpjs.com/plugins/)
+- [npm](https://www.npmjs.com/search?q=gulpplugin)
+- [Gulp —— 另一种自动化流水线](http://zhuanlan.zhihu.com/TLA42/19691575)
+
+####Sass
+
+- [sass入门](http://www.w3cplus.com/sassguide/)
+- [sass中国](http://www.sass.hk/)
+- [sass参考手册](http://sass.bootcss.com/docs/sass-reference/)
+- [sass Functions](http://sass-lang.com/documentation/Sass/Script/Functions.html)
+
 
 ###杂谈
 
