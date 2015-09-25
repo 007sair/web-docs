@@ -1,31 +1,4 @@
----
-layout: post
-title: 前端资源整理
-description: 整理一些前端需要用到的资源，资源会不断整合
-keywords: html, css, javascript, 资源
-category: "web"
----
-
-<style>
-.lotus-post h2{}
-.lotus-post h3{ font-size: 22px;}
-.lotus-post h4{ font-size: 16px;}
-.lotus-post ul{ margin-left: 2em; margin-bottom: 5px;}
-.lotus-post li{ font-size: 14px;}
-.lotus-post p{ margin-bottom: 0.2em;}
-</style>
-
-<script>
-$(document).ready(function() {
-    //为超链接加上target='_blank'属性
-    $('a[href^="http"]').each(function() {
-        $(this).attr({
-            'target' : '_blank',
-            'rel' : 'nofollow'
-        });
-    });
-});
-</script>
+前端学习资料，欢迎Fork修改！
 
 ###专业类
 
