@@ -77,7 +77,7 @@
 
 ####压缩工具
 
-- [http://tool.css-js.com/](http://tool.css-js.com/)
+- [CSS, JavaScript 压缩, 美化, 加密, 解密](http://tool.css-js.com/)
 - [在线工具集合](http://tool.oschina.net/)
 - [前端开发仓库](http://code.ciaoca.com/)
 - [前端开发工具大全-武方博收集整理](http://www.wufangbo.com/web-development-tools-list/)
