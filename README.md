@@ -1,7 +1,7 @@
 前端学习资料，欢迎编辑~
 --------------------------
 
-###专业类
+##专业类
 
 ####HTML
 
@@ -38,7 +38,8 @@
 - [编码规范 by @mdo](http://www.css88.com/doc/codeguide/)
 - [编码规范 from github](https://github.com/ecomfe/spec)
 
-###学习类
+
+##学习类
 
 - [Frontend Knowledge Structure](http://html5ify.com/fks/)
 - [免费的编程中文书籍索引](http://siberiawolf.com/free_programming/index.html)
@@ -47,7 +48,8 @@
 - [妙味课堂 - 需购买才能看](http://www.miaov.com/2013/download/video_download.html)
 - [一步步学会使用SeaJS 2.0](http://my.oschina.net/smile622/blog/217889)
 
-###工具类
+
+##工具类
 
 ####Emmet
 
@@ -81,7 +83,8 @@
 - [前端开发工具大全-武方博收集整理](http://www.wufangbo.com/web-development-tools-list/)
 - [前端开发神奇-w3cfuns](http://www.w3cfuns.com/tools.php)
 
-###资源类
+
+##资源类
 
 ####网站
 
@@ -96,7 +99,7 @@
 - [CSS3字体模块](http://www.w3.org/html/ig/zh/wiki/Css3-fonts)
 - [字体下载-求字体网](http://www.qiuziti.com/)
 
-###自动化构建
+##自动化构建
 
 ####Gulp
 
@@ -114,7 +117,7 @@
 - [sass Functions](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 
 
-###杂谈
+##杂谈
 
 - [程序员装B指南手册](http://ziren.org/hobby/the-programmer-loaded-b-guidebook.html)
 - [初入行Web前端开发新手必读](http://www.w3cfuns.com/article-1844-1-1.html)
