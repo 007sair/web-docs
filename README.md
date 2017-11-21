@@ -1,16 +1,16 @@
 前端学习资料，欢迎编辑~
 --------------------------
 
-##专业类
+## 专业类
 
-####HTML
+#### HTML
 
 - [HTML5标签使用的常见误区](http://ued.sina.com.cn/?p=726)
 - [22个HTML5的初级技巧](http://stylechen.com/22-html5-tips.html) 
 - [HTML5的革新——语义化标签(一)](http://www.html5jscss.com/html5-semantics-section.html)
 - [HTML5的革新：结构之美](http://mrthink.net/html5-simple-structure/)
 
-####CSS
+#### CSS
 
 - [css解决方案_W3cplus](http://www.w3cplus.com/solution/index/index.html)
 - [css选择器的浏览器支持](http://labs.qianduan.net/css-selector/)
@@ -21,17 +21,17 @@
 - [css3 content 生成内容](http://www.w3cplus.com/solution/css3content/css3content.html)
 - [css3-flexbox/zh-hans](http://www.w3.org/html/ig/zh/wiki/Css3-flexbox/zh-hans#.E4.BC.B8.E7.BC.A9.E8.A1.8C.E6.8D.A2.E8.A1.8C_.E2.80.95.E3.80.8Cflex-wrap.E3.80.8D.E5.B1.9E.E6.80.A7)
 
-####Javascript
+#### Javascript
 
 - [javaScript入门学习书籍的阶段选择](http://www.planabc.net/2008/01/30/javascript_books_recommend/)
 - [javascript核心](http://weizhifeng.net/javascript-the-core.html)
 
-####优化
+#### 优化
 
 - [HOW TO LOSE WEIGHT in the browser](http://browserdiet.com/zh/)
 - [移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)
 
-####规范
+#### 规范
 
 - [Web前端开发规范文档](https://cnodejs.org/topic/55dec742c61f30df2e65ebda)
 - [百度，淘宝，腾讯三大巨头HTML页面规范分解](http://www.w3cfuns.com/blog-5440229-5402622.html)
@@ -39,7 +39,7 @@
 - [编码规范 from github](https://github.com/ecomfe/spec)
 
 
-##学习类
+## 学习类
 
 - [Frontend Knowledge Structure](http://html5ify.com/fks/)
 - [免费的编程中文书籍索引](http://siberiawolf.com/free_programming/index.html)
@@ -49,14 +49,14 @@
 - [一步步学会使用SeaJS 2.0](http://my.oschina.net/smile622/blog/217889)
 
 
-##工具类
+## 工具类
 
-####Emmet
+#### Emmet
 
 - [英文文档](http://docs.emmet.io/)
 - [中文文档](http://yanxyz.github.io/emmet-docs/)
 
-####Git
+#### Git
 
 - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)（本文由 @廖雪峰 创作，如果觉得本教程对您有帮助，可以去 iTunes 购买）
 - [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -65,7 +65,7 @@
 - [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
 - [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
 
-####框架
+#### 框架
 
 - [AngularJS中文网](http://www.apjs.net/)
 - [React概览](http://segmentfault.com/a/1190000000693651)
@@ -75,7 +75,7 @@
 - [Nice Easy Javascript](http://nej.netease.com/)
 - [NEC：更好的css样式解决方案](http://nec.netease.com/)
 
-####压缩工具
+#### 压缩工具
 
 - [CSS, JavaScript 压缩, 美化, 加密, 解密](http://tool.css-js.com/)
 - [在线工具集合](http://tool.oschina.net/)
@@ -84,24 +84,24 @@
 - [前端开发神奇-w3cfuns](http://www.w3cfuns.com/tools.php)
 
 
-##资源类
+## 资源类
 
-####网站
+#### 网站
 
 - [蓝色理想wiki](http://wiki.blueidea.com/index.php?title=%E9%A6%96%E9%A1%B5)
 - [前端技术专栏 - w3cfuns](http://www.w3cfuns.com/forum.php?gid=126)
 - [妙味](http://bbs.miaov.com/forum.php)
 - [领先的HTML5动效搜索和分享引擎 - 踏得网](http://techbrood.com/)
 
-####资源
+#### 资源
 
 - [Browserhacks - 一个针对hack的网站！！](http://browserhacks.com/#browserhacks)
 - [CSS3字体模块](http://www.w3.org/html/ig/zh/wiki/Css3-fonts)
 - [字体下载-求字体网](http://www.qiuziti.com/)
 
-##自动化构建
+## 自动化构建
 
-####Gulp
+#### Gulp
 
 - [Gulp 中文网](http://www.gulpjs.com.cn/)
 - [前端构建工具gulp入门教程](http://segmentfault.com/a/1190000000372547)
@@ -109,7 +109,7 @@
 - [npm](https://www.npmjs.com/search?q=gulpplugin)
 - [Gulp —— 另一种自动化流水线](http://zhuanlan.zhihu.com/TLA42/19691575)
 
-####Sass
+#### Sass
 
 - [sass入门](http://www.w3cplus.com/sassguide/)
 - [sass中国](http://www.sass.hk/)
@@ -117,7 +117,7 @@
 - [sass Functions](http://sass-lang.com/documentation/Sass/Script/Functions.html)
 
 
-##杂谈
+## 杂谈
 
 - [程序员装B指南手册](http://ziren.org/hobby/the-programmer-loaded-b-guidebook.html)
 - [初入行Web前端开发新手必读](http://www.w3cfuns.com/article-1844-1-1.html)
